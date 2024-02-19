@@ -3,3 +3,8 @@ The upcycling web application harnesses the power of HTML, CSS, JavaScript, and 
 ![Screenshot (371)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/661ff211-4fa3-4b04-b6f4-7246ea4b77a9)
 ![Screenshot (372)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/dedaaac6-4a1b-4a5c-a4cf-f60fdcba2eef)
 ![Screenshot (373)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/727cb900-689a-426f-9241-0422419cb1ab)
+![Screenshot (374)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/428408db-5fcb-4741-a06b-09e339771f00)
+![Screenshot (375)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/77e40f4f-7754-4556-acb7-d0c05b4cb09c)
+![Screenshot (376)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/6ee65800-88e8-415c-b815-6337b9b2aa1e)
+![Screenshot (377)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/57f63f96-6d67-4525-a78d-75a029c0843e)
+![Screenshot (378)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/45ce8976-0d15-4cbe-8e14-f3362aaff6ea)
