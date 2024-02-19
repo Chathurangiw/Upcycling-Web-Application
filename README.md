@@ -1,1 +1,5 @@
 The upcycling web application harnesses the power of HTML, CSS, JavaScript, and PHP to provide users with an innovative platform for repurposing and reimagining materials. Through intuitive design and seamless integration of these technologies, users can discover creative ways to give new life to old items, contributing to environmental sustainability and promoting resourcefulness. Whether it's transforming discarded objects into unique crafts or finding new uses for everyday items, this application empowers users to explore the art of upcycling in a user-friendly and engaging manner.
+![Screenshot (369)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/c18efd05-3527-46f5-849b-0e658e65e815)
+![Screenshot (371)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/661ff211-4fa3-4b04-b6f4-7246ea4b77a9)
+![Screenshot (372)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/dedaaac6-4a1b-4a5c-a4cf-f60fdcba2eef)
+![Screenshot (373)](https://github.com/Chathurangiw/Upcycling-Web-Application/assets/96134411/727cb900-689a-426f-9241-0422419cb1ab)
